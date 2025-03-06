@@ -1,0 +1,12 @@
+[11-May-2024 23:45:42 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bomberosmh/public_html/intranet/php/socios/ActualizarSocio.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bomberosmh/public_html/intranet/php/socios/ActualizarSocio.php on line 9
+[11-May-2024 23:46:27 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bomberosmh/public_html/intranet/php/socios/ActualizarSocio.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bomberosmh/public_html/intranet/php/socios/ActualizarSocio.php on line 9
+[11-May-2024 23:47:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/bomberosmh/public_html/intranet/php/socios/ActualizarSocio.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bomberosmh/public_html/intranet/php/socios/ActualizarSocio.php on line 9
